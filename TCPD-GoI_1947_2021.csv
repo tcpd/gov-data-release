@@ -1,4 +1,4 @@
-state_ut,Sequence_No,ID,title_begin,name,title_end,gender,start_date,end_date,designation,days_in_off,delay_apt,acting,source
+"State_or_UT","Sequence_No","ID","Prefix_Source","Name","Suffix_Source","Gender","Start_Date","End_Date","Designation","Days_in_Office","Appointment_Delay","Acting","Source"
 Assam,1,10,H.E. SIR,AKBAR HYDARI,K.C.I.E.C.S.I. ICS (RETD),M,04/05/1947,28/12/1948,Governor,604,,0,http://assamassembly.gov.in/governor-list.html
 Assam,2,11,H.E.,RONALD FRANCIS LODGE,ICS (RETD),M,30/12/1948,15/02/1949,Governor,47,2,0,http://assamassembly.gov.in/governor-list.html
 Assam,3,241,SHRI,SRI PRAKASA,,M,16/02/1949,26/05/1949,Governor,99,1,0,http://assamassembly.gov.in/governor-list.html
