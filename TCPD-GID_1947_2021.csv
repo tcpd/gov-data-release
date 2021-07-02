@@ -1,4 +1,4 @@
-"State_or_UT","Sequence_No","ID","Prefix_Source","Name","Suffix_Source","Gender","Start_Date","End_Date","Designation","Days_in_Office","Appointment_Delay","Acting","Source"
+State_or_UT,Sequence_No,ID,Prefix_Source,Name,Suffix_Source,Gender,Start_Date,End_Date,Designation,Days_in_Office,Appointment_Delay,Acting,Source
 Assam,1,10,H.E. SIR,AKBAR HYDARI,K.C.I.E.C.S.I. ICS (RETD),M,04/05/1947,28/12/1948,Governor,604,,0,http://assamassembly.gov.in/governor-list.html
 Assam,2,11,H.E.,RONALD FRANCIS LODGE,ICS (RETD),M,30/12/1948,15/02/1949,Governor,47,2,0,http://assamassembly.gov.in/governor-list.html
 Assam,3,241,SHRI,SRI PRAKASA,,M,16/02/1949,26/05/1949,Governor,99,1,0,http://assamassembly.gov.in/governor-list.html
@@ -137,7 +137,7 @@ Kerala,29,135,SHRI,R.S. GAVAI,,M,11/07/2008,07/09/2011,Governor,1153,1,0,https:/
 Kerala,30,136,SHRI,M.O.H. FAROOK,,M,08/09/2011,16/01/2012,Governor,130,1,0,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
 Kerala,31,139,SHRI,H.R. BHARDWAJ,,M,16/01/2012,22/03/2013,Governor,431,0,1,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
 Kerala,32,490,SHRI,NIKHIL KUMAR,,M,23/03/2013,07/03/2014,Governor,349,1,0,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
-Kerala,33,139,SHRI,H.R. BHARDWAJ,,M,08/03/2014,10/03/2014,Governor,2,1,,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
+Kerala,33,139,SHRI,H.R. BHARDWAJ,,M,08/03/2014,10/03/2014,Governor,2,1,0,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
 Kerala,34,140,SMT.,SHEILA DIKSHIT,,F,11/03/2014,04/09/2014,Governor,177,1,0,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
 Kerala,35,141,SHRI JUSTICE (RETD),P. SATHASIVAM,,M,05/09/2014,05/09/2019,Governor,1826,1,0,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
 Kerala,36,142,SHRI,ARIF MOHAMMED KHAN,,M,06/09/2019,Current,Governor,663,1,0,https://www.rajbhavan.kerala.gov.in/index.php/succession-list-of-governors
@@ -764,7 +764,7 @@ Jammu & Kashmir,12,31,LT GEN. (RETD.),S K SINHA,PVSM,M,04/06/2003,25/06/2008,Gov
 Jammu & Kashmir,13,752,SH.,N. N. VOHRA,,M,25/06/2008,29/06/2013,Governor,1830,0,0,http://jkrajbhawan.nic.in/previous-governors.html
 Jammu & Kashmir,14,752,SH.,N. N. VOHRA,,M,29/06/2013,21/08/2018,Governor,1879,0,0,http://jkrajbhawan.nic.in/previous-governors.html
 Jammu & Kashmir,15,538,SH.,SATYA PAL MALIK,,M,23/08/2018,30/10/2019,Governor,433,2,0,http://jkrajbhawan.nic.in/previous-governors.html
-Jammu & Kashmir,16,3001,,G. C. Murmu,,M,31/10/2019,06/08/2020,Lieutenant Governor,281,1,,https://timesofindia.indiatimes.com/india/manoj-sinha-takes-oath-as-lg-of-jammu-and-kashmir/articleshow/77409120.cms
+Jammu & Kashmir,16,3001,,G. C. Murmu,,M,31/10/2019,06/08/2020,Lieutenant Governor,281,1,0,https://timesofindia.indiatimes.com/india/manoj-sinha-takes-oath-as-lg-of-jammu-and-kashmir/articleshow/77409120.cms
 Jammu & Kashmir,17,755,SH.,MANOJ SINHA,,M,07/08/2020,Current,Lieutenant Governor,327,1,0,http://jkrajbhawan.nic.in/index.html
 Andaman & Nicobar Islands,1,756,ADMIRAL,D K JOSHI," PVSM, AVSM, YSM, NM, VSM (RETD.)",M,08/10/2017,Current,Lieutenant Governor,1361,,0,https://nicobars.andaman.nic.in/lg/
 Lakshadweep,1,757,SHRI,U.R. PANICKER,,M,01/11/1956,07/11/1956,Administrator,6,,0,https://web.archive.org/web/20180325073258/http://lakshadweep.nic.in:80/formeradministrators.html
@@ -819,4 +819,4 @@ Dadra & Nagar Haveli & Daman & Diu,14,804,SHRI,B. S. BHALLA,,M,28/08/2012,17/08/
 Dadra & Nagar Haveli & Daman & Diu,15,805,SHRI,ASHISH KUNDRA,,M,18/08/2014,13/03/2016,Administrator,573,1,0,https://www.daman.nic.in/websites/Administrator/documents/Administrator-List-Update.pdf
 Dadra & Nagar Haveli & Daman & Diu,16,806,SHRI,VIKRAM DEV DUTT,,M,14/03/2016,29/08/2016,Administrator,168,1,0,https://www.daman.nic.in/websites/Administrator/documents/Administrator-List-Update.pdf
 Dadra & Nagar Haveli & Daman & Diu,17,808,SHRI,PRAFUL PATEL,,M,29/08/2016,26/01/2020,Administrator,1245,0,0,https://www.daman.nic.in/websites/Administrator/documents/Administrator-List-Update.pdf
-Dadra & Nagar Haveli & Daman & Diu,18,808,SHRI,PRAFUL PATEL,,M,26/01/2020,Current,Administrator,521,0,,https://www.daman.nic.in/about-administration.aspx
+Dadra & Nagar Haveli & Daman & Diu,18,808,SHRI,PRAFUL PATEL,,M,26/01/2020,Current,Administrator,521,0,0,https://www.daman.nic.in/about-administration.aspx
