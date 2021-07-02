@@ -1,7 +1,7 @@
 ### Data Citation: 
 “TCPD Governors of India Dataset (TCPD-GID), 1947-current”. Trivedi Centre for Political Data, Ashoka University.
 ### Codebook Citation: 
-Neelesh Agrawal, Prachi Arya, Mohit Kumar, Priyam Panda, and Basim U Nissa. 2021. “TCPD Governors of India Dataset (TCPD-GID), 1947-current Codebook", Trivedi Centre for Political Data, Ashoka University.
+Neelesh Agrawal, Prachi Arya, Alapan Chaudhuri, Mohit Kumar, Priyam Panda, and Basim U Nissa. 2021. “TCPD Governors of India Dataset (TCPD-GID), 1947-current Codebook", Trivedi Centre for Political Data, Ashoka University.
 ### No Endorsement: 
 The user must not claim or imply that the Trivedi Centre for Political Data endorses the user's use of the data or use of the Centre's logo(s) or trademarks(s) in conjunction with the same.
 ### No Warranty: 
